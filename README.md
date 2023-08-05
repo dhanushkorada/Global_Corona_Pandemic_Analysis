@@ -1,9 +1,4 @@
 # Global_Corona_andemic_Analysis
-Sure, here's a README file that you can use for your project:
-
----
-
-# COVID-19 Vaccination Data Visualization
 
 This project focuses on visualizing COVID-19 vaccination data using Python's pandas, numpy, matplotlib, and folium libraries. The goal is to analyze and present vaccination doses per capita data on a world map.
 
@@ -50,11 +45,3 @@ pip install pandas numpy matplotlib folium
 4. A choropleth layer is added to the map using folium's `Choropleth` class.
 5. The color of each country's region on the map corresponds to the total vaccinations per hundred people.
 6. A layer control is added to the map to allow toggling the choropleth layer.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can use this template as a starting point for your project's README file. Make sure to replace the placeholder sections with your actual project details and customize it according to your preferences.
