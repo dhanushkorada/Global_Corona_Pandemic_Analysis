@@ -1,4 +1,4 @@
-# Global_Corona_andemic_Analysis
+# Global_Corona_Pandemic_Analysis
 
 This project focuses on visualizing COVID-19 vaccination data using Python's pandas, numpy, matplotlib, and folium libraries. The goal is to analyze and present vaccination doses per capita data on a world map.
 
